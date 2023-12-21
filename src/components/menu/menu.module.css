@@ -1,0 +1,45 @@
+.container {
+	display: grid;
+	gap: 20px;
+	align-items: center;
+	justify-items: center;
+	padding: 50px;
+	background-color: #0A0A0B;
+	color: white;
+}
+
+.header {
+	display: grid;
+	gap: 20px;
+	align-items: center;
+	justify-items: center;
+}
+
+.menu {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	justify-content: center;
+}
+
+.featureContainer {
+	display: grid;
+	gap: 20px;
+	justify-items: center;
+	max-width: 350px;
+	text-align: center;
+}
+
+.featureHeader {
+	font-size: 2rem;
+}
+
+.featureIcon {
+	width: 350px;
+	height: 300px;
+}
+
+.featureIcon img {
+	width: 350px;
+	height: 300px;
+}
