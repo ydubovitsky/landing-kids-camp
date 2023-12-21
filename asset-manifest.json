@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-kids-camp/static/css/main.1a436e66.css",
+    "main.js": "/landing-kids-camp/static/js/main.a9fad62b.js",
+    "static/js/787.375babb5.chunk.js": "/landing-kids-camp/static/js/787.375babb5.chunk.js",
+    "static/media/background.jpg": "/landing-kids-camp/static/media/background.eda0bea2fe8fb421be55.jpg",
+    "index.html": "/landing-kids-camp/index.html",
+    "main.1a436e66.css.map": "/landing-kids-camp/static/css/main.1a436e66.css.map",
+    "main.a9fad62b.js.map": "/landing-kids-camp/static/js/main.a9fad62b.js.map",
+    "787.375babb5.chunk.js.map": "/landing-kids-camp/static/js/787.375babb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a436e66.css",
+    "static/js/main.a9fad62b.js"
+  ]
+}
